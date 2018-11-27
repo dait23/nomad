@@ -6,7 +6,7 @@
   {
     "name": "Dokter Spesialis",
     "id": 1,
-    children: [{
+     "children": [{
         "name": "Paru",
         "id": 101,
       },{
