@@ -1,17 +1,17 @@
 [
   {  
-    'name': 'Dokter Umum',
-    id: 1,
+    "name": "Dokter Umum",
+    "id": 1,
   },
   {
-    'name': 'Dokter Spesialis',
-    id: 1,
+    "name": "Dokter Spesialis",
+    "id": 1,
     children: [{
-        'name': 'Paru',
-        id: 101,
+        "name": "Paru",
+        "id": 101,
       },{
-        'name': 'Radiologi',
-        id: 102,
+        "name": "Radiologi",
+        "id": 102,
       }]
   }
 
