@@ -1,175 +1,18 @@
 [
   {  
-    name: "Dokter Umum",
+    'name': 'Dokter Umum',
     id: 1,
   },
   {
-    name: "Dokter Spesialis",
+    'name': 'Dokter Spesialis',
     id: 1,
     children: [{
-        name: "Paru",
+        'name': 'Paru',
         id: 101,
       },{
-        name: "Radiologi",
+        'name': 'Radiologi',
         id: 102,
-      },{
-        name: "Patologi",
-        id: 103,
-      },{
-        name: "Obstetri dan Ginekologi",
-        id: 104,
-      },{
-        name: "Telinga Hidung Tenggorokan  Bedah Kepala Leher",
-        id: 105,
-      },{
-        name: "Kulit dan Kelamin",
-        id: 106,
-      },{
-        name: "Penyakit Dalam",
-        id: 107,
-      },{
-        name: "Kardiologi",
-        id: 108,
-      },{
-        name: "Anak",
-        id: 109,
-      },{
-        name: "Urologi",
-        id: 110,
-      },{
-        name: "Bedah",
-        id: 111,
-      },{
-        name: "Anestesiologi dan Terapi Intensif",
-        id: 112,
-      },{
-        name: "Orthopaedi dan Traumatologi",
-        id: 113,
-      },{
-        name: "Bedah Saraf",
-        id: 114,
-      },{
-        name: "Saraf",
-        id: 115,
-      },{
-        name: "Kedokteran Penerbangan",
-        id: 116,
-      },{
-        name: "Kedokteran Fisik dan Rehabilitasi",
-        id: 117,
-      },{
-        name: "Kedokteran Kelautan",
-        id: 118,
-      },{
-        name: "Bedah Plastik",
-        id: 119,
-      },{
-        name: "Kedokteran Nuklir",
-        id: 120,
-      },{
-        name: "Ahli Mikrobiologi Klinik",
-        id: 121,
-      },{
-        name: "Parasitologi Klinik",
-        id: 122,
-      },{
-        name: "Forensik",
-        id: 123,
-      },{
-        name: "Okupasi",
-        id: 124,
-      },{
-        name: "Patoogi Klinik",
-        id: 125,
-      },{
-        name: "Gizi Klinik",
-        id: 126,
-      },{
-        name: "Farmakolgi Klinik",
-        id: 127,
-      },{
-        name: "Andrologi",
-        id: 128,
-      },{
-        name: "Mata",
-        id: 129,
-      },{
-        name: "Kedokteran Jiwa",
-        id: 130,
-      },{
-        name: "Kedokteran Olah Raga",
-        id: 131,
-      },{
-        name: "Bedah Umum",
-        id: 132,
-      },{
-        name: "Bedah Anak",
-        id: 133,
-      },{
-        name: "Onkolologi Radiasi",
-        id: 134,
-      },{
-        name: "Akupunktur Medik",
-        id: 135,
-      },{
-        name: "Bedah Toraks Kardiovaskuler",
-        id: 136,
       }]
-  },
-   {  
-    name: "Dokter Gigi",
-    id: 2,
-  },
-  {
-    name: "Dokter Gigi Spesialis",
-    id: 3,
-    children: [{
-        name: "Bedah Mulut (SpBM)",
-        id: 301,
-      },{
-        name: "Pedodontis (SpKGA)",
-        id: 302,
-      },{
-        name: "Ortodontis (SpOrt)",
-        id: 303,
-      },{
-        name: "Endodontis (SpKG)",
-        id: 304,
-      },{
-        name: "Periodontis (SpPerio)",
-        id: 305,
-      },{
-        name: "Prostodontis (SpPros)",
-        id: 306,
-      },{
-        name: "Oral Medicine (SpPM)",
-        id: 307,
-      },{
-        name: "Dental Radiologist (SpRKG)",
-        id: 308,
-      }]
-  },{  
-    name: "Bidan",
-    id: 4,
-  },{  
-    name: "Perawat",
-    id: 5,
-  },{  
-    name: "Apoteker",
-    id: 6,
-  },{  
-    name: "Asisten Apoteker",
-    id: 7,
-  },{  
-    name: "analis kesehatan",
-    id: 8,
-  },{  
-    name: "Tenaga Kesehatan Lain",
-    id: 9,
-  },
-   {  
-    name: "Relawan",
-    id: 10,
   }
 
 ]
